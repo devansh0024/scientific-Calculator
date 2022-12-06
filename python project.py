@@ -15,7 +15,7 @@ print("11.DEGREE TO RADIAN")
 print("12.RADIAN TO DEGREE")
 print("******************************************************")
 z=int(input("ENTER NUMBERS FROM 1 TO 12 TO PERFORM OPERATIONS: "))
-y="YES"
+y="yes"
 pi=22/7
 if z==1:
     a=float(input("enter the 1st number:"))
