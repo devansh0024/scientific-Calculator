@@ -27,7 +27,7 @@ if z==2:
     result=a-b
 if z==3:
     a=float(input("enter the 1st number:"))
-    b=float(input("enter the 2nd number:"))
+    b=float(input("enter  2nd number:"))
     result=a*b
 if z==4:
     a=float(input("enter the 1st number:"))
