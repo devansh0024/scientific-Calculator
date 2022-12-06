@@ -18,8 +18,8 @@ z=int(input("ENTER NUMBERS FROM 1 TO 12 TO PERFORM OPERATIONS: "))
 y="yes"
 pi=22/7
 if z==1:
-    a=float(input("enter the 1st number:"))
-    b=float(input("enter the 2nd number:"))
+    a=float(input("enter 1st number:"))
+    b=float(input("enter 2nd number:"))
     result=a+b
 if z==2:
     a=float(input("enter the 1st number:"))
